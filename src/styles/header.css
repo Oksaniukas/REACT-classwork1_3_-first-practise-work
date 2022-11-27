@@ -1,0 +1,9 @@
+nav {
+   font-size: 40px;
+   color: black;
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   padding-top: 20px;
+
+}
